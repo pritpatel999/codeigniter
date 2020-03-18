@@ -1,0 +1,22 @@
+.container{
+    /* background-color: rgba(221, 217, 217, 0.883);
+    padding-bottom:30px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius: 10px; */
+
+    background-image: url(../images/bg2.png);
+    margin-top: 20px;
+    padding-bottom:30px;
+    margin-bottom:20px;
+    border-radius: 10px;
+}
+
+.jumbotron{
+    background-color: #fff;
+    border:2px dashed black;
+}
+
+table{
+    border:2px dashed rgb(122, 104, 104);
+}
